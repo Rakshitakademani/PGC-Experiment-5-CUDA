@@ -1,1 +1,0 @@
-# The results calculator uses only the Python standard library.
